@@ -1,4 +1,4 @@
-# Solutions VisuAlg
+# Solutions VisuAlg (Portugol)
 Este repositório agrega soluções diversas para atendimento de diversas demandas
 
 ## 🚀 Citação
